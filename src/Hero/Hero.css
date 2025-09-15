@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.hero {
+  max-width: 1440px;
+}
+
+.hero-section {
+  display: flex;
+  width: 714px;
+  height: 387px;
+  margin: 96px auto;
+  flex-direction: column;
+  background-color: blue;
+}
+
+.hero-h1 {
+  display: flex;
+  font-size: 58px;
+  text-align: center;
+}

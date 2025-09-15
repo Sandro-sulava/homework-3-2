@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  display: flex;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.header-nav {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding: 41px 115px;
+}
+
+.header-startup {
+  color: #1e0e62;
+  font-size: 24px;
+}
+
+.header-ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: end;
+
+  gap: 45px;
+  color: #15143966;
+}
