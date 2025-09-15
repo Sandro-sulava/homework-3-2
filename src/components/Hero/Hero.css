@@ -5,20 +5,29 @@
 }
 
 .hero {
-  max-width: 1440px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  width: 1440px;
 }
 
 .hero-section {
   display: flex;
   width: 714px;
   height: 387px;
-  margin: 96px auto;
   flex-direction: column;
-  background-color: blue;
 }
 
 .hero-h1 {
   display: flex;
   font-size: 58px;
   text-align: center;
+  color: #1e0e62;
+}
+
+.hero-p {
+  color: #15143966;
+  text-align: center;
+  font-size: 22px;
+  margin: 32px 78px;
 }

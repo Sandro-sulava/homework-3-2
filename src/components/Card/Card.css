@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.card-section {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+  max-width: 1028px;
+}
+
+.card-div {
+  width: 228px;
+}
+
+.card-p {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  color: #15143966;
+  gap: 85px;
+  font-size: 18px;
+}
+
+.card-line {
+  width: 2px;
+  background-color: #ebeaed;
+}

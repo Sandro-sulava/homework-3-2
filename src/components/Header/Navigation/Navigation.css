@@ -1,0 +1,8 @@
+.header-ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: end;
+  gap: 45px;
+  color: #15143966;
+  cursor: pointer;
+}

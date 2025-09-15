@@ -21,12 +21,3 @@
   color: #1e0e62;
   font-size: 24px;
 }
-
-.header-ul {
-  display: flex;
-  list-style-type: none;
-  justify-content: end;
-
-  gap: 45px;
-  color: #15143966;
-}

@@ -1,3 +1,4 @@
+import Button from "../Button/Button";
 import "./Hero.css";
 
 function Hero() {
@@ -9,10 +10,7 @@ function Hero() {
           We have created a new product that will help designers, developers and
           companies create websites for their startups quickly and easily.
         </p>
-        <div className="hero-buttons">
-          <button className="hero-button-login">Log In</button>
-          <button className="hero-button-signup">Sing Up</button>
-        </div>
+        <Button />
       </div>
     </div>
   );

@@ -1,0 +1,22 @@
+.hero-button {
+  display: flex;
+  justify-content: space-between;
+}
+
+.hero-button-login {
+  padding: 8px 72px 7px 73px;
+  border-radius: 100px;
+  background-color: #007aff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.hero-button-signup {
+  padding: 8px 64px 7px 65px;
+  border-radius: 100px;
+  background-color: #00c7be;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
