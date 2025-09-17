@@ -3,3 +3,12 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+@font-face {
+  font-family: "Dm-sans";
+  src: url("./assets/fonts/DM_Sans.zip");
+}
+
+body {
+  font-family: "Dm-sans", sans-serif;
+}
